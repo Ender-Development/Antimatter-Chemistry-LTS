@@ -1,0 +1,77 @@
+{
+    "curse":[
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Patchouli ROFL Edition] - maintained fork of Patchouli"
+            },
+            "addonId": 905159,
+            "fileId": 6178311
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Patchouli Books] - additional features for Patchouli"
+            },
+            "addonId": 1133738,
+            "fileId": 6136828
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [More Overlays] - light level and chunk boarder overlay"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 243478,
+            "fileId": 2745657
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Advancement Locator] - locate your advancements with ease"
+            },
+            "addonId": 818503,
+            "fileId": 4723768
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [籁/Sound Physics Remixin] - improved sound engine"
+            },
+            "addonId": 951159,
+            "fileId": 6177482
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Flare] - performance profiler"
+            },
+            "addonId": 692142,
+            "fileId": 6183658
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Mouse Tweaks Unofficial] - improved mouse features"
+            },
+            "addonId": 461660,
+            "fileId": 5876158
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [NeverEnoughAnimation] - fancy inventory animations"
+            },
+            "addonId": 1062347,
+            "fileId": 5573583
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Crafting Tweaks Unofficial] - additional buttons for crafting tables"
+            },
+            "addonId": 633720,
+            "fileId": 3852709
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Inventory Bogo Sorter] - inventory sorting mod"
+            },
+            "addonId": 632327,
+            "fileId": 6170805
+        }
+    ]
+}
