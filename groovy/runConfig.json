@@ -1,6 +1,6 @@
 {
-  "packName": "CleanRoomPackDevTemplate",
-  "packId": "cleanroom_template",
+  "packName": "Antimatter Chemistry",
+  "packId": "amc_lts",
   "version": "1.0.0",
   "debug": false,
   "classes": {

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "amc_lts:antimatter_magenta"
+    }
+  }
+}
