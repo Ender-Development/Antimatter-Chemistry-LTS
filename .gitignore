@@ -8,10 +8,13 @@
 *.html
 *.log
 *.py
+\.curseclient
 \.mixin\.out/
 asm/
 assetmover/
 backups/
+cache/
+cleanroom-relauncher-v1\.properties
 config/jei/itemBlacklist\.cfg
 config/jei/searchColors\.cfg
 config/jei/worldSettings\.cfg
@@ -23,5 +26,13 @@ hei_bookmarks\.ini
 journeymap/
 local/
 logs/
+manifest\.json
+minecraftinstance\.json
+mods/
+options\.txt
+patchouli_books/
+patchouli_data\.json
 saves/
 screenshots/
+server-resource-packs/
+vintagefix/
