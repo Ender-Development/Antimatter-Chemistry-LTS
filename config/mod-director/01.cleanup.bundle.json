@@ -41,6 +41,41 @@
             "folder": "mods",
             "fileName": "spark-forge.jar",
             "delete": true
+        },
+        {
+            "comment": "Delete Shadowfacts' Forgelin. This uses Forgelin-Continuous.",
+            "folder": "mods",
+            "fileName": "Forgelin-1.8.4.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete Applied Energistics 2. This uses AE2 UEL.",
+            "folder": "mods",
+            "fileName": "appliedenergistics2-rv6-stable-7.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete Extended Crafting. This uses Extended Crafting Nomifactory Edition.",
+            "folder": "mods",
+            "fileName": "ExtendedCrafting-1.12.2-1.5.6.jar",
+            "delete": true
+        },
+        {
+            "comment": "RandomPatches is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "randompatches-1.12.2-1.22.1.10.jar",
+            "delete": true
+        },
+        {
+            "comment": "RandomPatches is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "rpintegration-1.12.2-1.5.1.0.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete scripts folder.",
+            "folder": "scripts",
+            "delete": true
         }
     ]
 }
