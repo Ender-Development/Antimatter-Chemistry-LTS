@@ -1,0 +1,22 @@
+{
+	title: "{amc.c1.join.name}",
+	icon: "amc_lts:antimatter_black",
+	x: 0.0d,
+	y: 0.0d,
+	description: "{amc.c1.join.sub}",
+	text: [
+		"{amc.c1.join.text}"
+	],
+	tasks: [{
+		uid: "a2ce6e34",
+		type: "dimension",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "8b3607d6",
+		type: "command",
+		auto: "invisible",
+		command: "/rtp",
+		player_command: true
+	}]
+}

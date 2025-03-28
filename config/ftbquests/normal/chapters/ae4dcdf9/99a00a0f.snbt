@@ -1,0 +1,19 @@
+{
+	title: "{amc.c1.sucrose.name}",
+	x: -4.0d,
+	y: 2.0d,
+	description: "{amc.c1.sucrose.sub}",
+	text: [
+		"{amc.c1.sucrose.text}"
+	],
+	dependencies: [
+		"038cdb12"
+	],
+	tasks: [{
+		uid: "f68d9e77",
+		type: "item",
+		items: [{
+			item: "alchemistry:compound 1 11"
+		}]
+	}]
+}

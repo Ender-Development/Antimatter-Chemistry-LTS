@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	dependencies: [
+		"30fe8154"
+	],
+	tasks: [{
+		uid: "bd32a576",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_combiner"
+		}]
+	}]
+}

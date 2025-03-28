@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "2a0a9c8c",
+		type: "item",
+		items: [{
+			item: "pickletweaks:hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

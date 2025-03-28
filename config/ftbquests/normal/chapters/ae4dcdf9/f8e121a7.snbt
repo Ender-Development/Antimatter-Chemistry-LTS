@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"99a00a0f"
+	],
+	tasks: [{
+		uid: "134e910d",
+		type: "item",
+		items: [{
+			item: "alchemistry:compound"
+		}]
+	}]
+}

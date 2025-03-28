@@ -1,0 +1,10 @@
+{
+	title: "{amc.c2.name}",
+	icon: "minecraft:sapling",
+	description: [
+		"{amc.c2.sub}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

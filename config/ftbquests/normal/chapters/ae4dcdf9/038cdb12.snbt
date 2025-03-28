@@ -1,0 +1,20 @@
+{
+	title: "{amc.c1.sugar_cane.name}",
+	x: -2.0d,
+	y: 2.0d,
+	description: "{amc.c1.sugar_cane.sub}",
+	text: [
+		"{amc.c1.sugar_cane.text}"
+	],
+	dependencies: [
+		"30fe8154"
+	],
+	tasks: [{
+		uid: "b210e6b3",
+		type: "item",
+		items: [{
+			item: "minecraft:reeds"
+		}],
+		count: 16L
+	}]
+}

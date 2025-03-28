@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	dependencies: [
+		"2824ec6e",
+		"99a00a0f"
+	],
+	tasks: [{
+		uid: "aeb85eed",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

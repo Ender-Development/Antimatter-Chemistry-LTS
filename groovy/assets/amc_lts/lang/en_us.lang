@@ -14,3 +14,25 @@ tile.amc_lts.antimatter_red.name=Red Antimatter
 tile.amc_lts.antimatter_light_gray.name=Light Gray Antimatter
 tile.amc_lts.antimatter_white.name=White Antimatter
 tile.amc_lts.antimatter_yellow.name=Yellow Antimatter
+
+amc.c1.name=Chapter 1
+amc.c1.sub="Where am I?"
+
+amc.c1.join.name=What is this place?
+amc.c1.join.sub=I don't remember anything.
+amc.c1.join.text=I woke up in a strange place. I don't remember anything. I need to find out where I am and how I got here. Maybe I can find some clues in the area.
+
+amc.c1.start.name=Getting back on track
+amc.c1.start.sub=What do I have on me?
+amc.c1.start.text=I have a backpack with me. I should check what I have in it. Maybe I can find something useful to help set foot in this strange place.
+
+amc.c1.sugar_cane.name=Sugar Cane
+amc.c1.sugar_cane.sub=Just grow more!
+amc.c1.sugar_cane.text=I have not nearly enough sugar cane for my needs. To grow more of them I can use the wet sand in my backpack and my watering can to speed up the growth even more.
+
+amc.c1.sucrose.name=Sweet like sugar
+amc.c1.sucrose.sub=I can almost taste it
+amc.c1.sucrose.text=I can throw the sugar cane into my Chemical Dissolver to get some Sucrose. That sucrose can be dissolved into its base components, which are Carbon, Hydrogen and Oxygen. I can use the Hydrogen and Oxygen to make some water.
+
+amc.c2.name=Chapter 2
+amc.c2.sub="The first steps"

@@ -1,5 +1,5 @@
 // Antimatter
-def modsToDelete = [
+def antimatter = [
     'black',
     'blue',
     'brown',
@@ -18,7 +18,7 @@ def modsToDelete = [
     'yellow'
 ]
 
-modsToDelete.each { color ->
+antimatter.each { color ->
     content.createBlock('antimatter_' + color).register()
 }
 

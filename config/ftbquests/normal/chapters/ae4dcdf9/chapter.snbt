@@ -1,0 +1,21 @@
+{
+	title: "{amc.c1.name}",
+	icon: "amc_lts:antimatter_black",
+	description: [
+		"{amc.c1.sub}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 0.0d,
+		y: -2.0d,
+		width: 21.0d,
+		height: 4.0d,
+		rotation: 0.0d,
+		image: "amc_lts:textures/gui/title.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

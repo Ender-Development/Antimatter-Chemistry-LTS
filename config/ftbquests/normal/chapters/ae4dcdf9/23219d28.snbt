@@ -1,0 +1,28 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"30fe8154"
+	],
+	tasks: [{
+		uid: "da61b3cf",
+		type: "item",
+		items: [{
+			item: "amc_lts:antimatter_light_gray"
+		}]
+	},
+	{
+		uid: "701cd956",
+		type: "item",
+		items: [{
+			item: "amc_lts:antimatter_black"
+		}]
+	},
+	{
+		uid: "b018f5ad",
+		type: "item",
+		items: [{
+			item: "amc_lts:antimatter_white"
+		}]
+	}]
+}

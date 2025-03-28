@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "5d6400f0",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 8"
+		}]
+	}]
+}

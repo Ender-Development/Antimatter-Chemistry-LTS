@@ -13,6 +13,7 @@
       "preInit/"
     ],
     "postInit": [
+      "postInit/init.groovy",
       "postInit/"
     ]
   },

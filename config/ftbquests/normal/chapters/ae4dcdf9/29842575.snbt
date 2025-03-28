@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	dependencies: [
+		"846697e0"
+	],
+	tasks: [{
+		uid: "be5f96bd",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

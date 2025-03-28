@@ -1,0 +1,395 @@
+{
+	title: "{amc.c1.start.name}",
+	x: 0.0d,
+	y: 2.0d,
+	description: "{amc.c1.start.sub}",
+	text: [
+		"{amc.c1.start.text}"
+	],
+	dependencies: [
+		"26050861"
+	],
+	tasks: [{
+		uid: "40a2f0bd",
+		type: "checkmark",
+		title: "Getting back on track."
+	}],
+	rewards: [{
+		uid: "85e51b16",
+		type: "item",
+		item: {
+			id: "minecraft:stone_pickaxe",
+			tag: {
+				Quality: {}
+			}
+		}
+	},
+	{
+		uid: "66b01f41",
+		type: "item",
+		item: {
+			id: "cyberware:trenchcoat",
+			tag: {
+				display: {
+					color: 15395562
+				}
+			}
+		}
+	},
+	{
+		uid: "9645c2e5",
+		type: "item",
+		item: {
+			id: "rewired:visor",
+			tag: {}
+		}
+	},
+	{
+		uid: "2664e4d7",
+		type: "item",
+		item: {
+			id: "retro_sophisticated_backpacks:backpack_leather",
+			tag: {
+				Quality: {},
+				Capability: {
+					MemoryRespectNBT: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					LockedSlots: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					UUIDMost: 2617112670377823833L,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					UUIDLeast: -7381433848413588983L,
+					BackpackInventory: {
+						Items: [{
+							Slot: 0b,
+							id: "alchemistry:chemical_combiner",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 1b,
+							id: "alchemistry:chemical_dissolver",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 2b,
+							id: "emergingtechnology:piezoelectric",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 3b,
+							tag: {
+								Water: 4000,
+								Mode: 0
+							},
+							Damage: 0s,
+							Count: 1,
+							id: "thermalcultivation:watering_can"
+						},
+						{
+							Slot: 4b,
+							id: "emergingtechnology:algaebarcooked",
+							Count: 4,
+							Damage: 0s
+						},
+						{
+							Slot: 5b,
+							id: "pickletweaks:repair_kit",
+							Count: 4,
+							Damage: 1s
+						},
+						{
+							Slot: 6b,
+							id: "minecraft:reeds",
+							Count: 4,
+							Damage: 0s
+						},
+						{
+							Slot: 7b,
+							id: "emergingtechnology:drink",
+							Count: 8,
+							Damage: 0s
+						},
+						{
+							Slot: 8b,
+							id: "alchemistry:wet_sand",
+							Count: 8,
+							Damage: 0s
+						}]
+					},
+					SortType: 2b,
+					BackpackInventorySize: 27,
+					UpgradeSlots: {
+						Items: []
+					}
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					MemoryRespectNBT: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					LockedSlots: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					UUIDMost: 2617112670377823833L,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					UUIDLeast: -7381433848413588983L,
+					BackpackInventory: {
+						Items: [{
+							Slot: 0b,
+							id: "alchemistry:chemical_combiner",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 1b,
+							id: "alchemistry:chemical_dissolver",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 2b,
+							id: "emergingtechnology:piezoelectric",
+							Count: 1,
+							Damage: 0s
+						},
+						{
+							Slot: 3b,
+							tag: {
+								Water: 4000,
+								Mode: 0
+							},
+							Damage: 0s,
+							Count: 1,
+							id: "thermalcultivation:watering_can"
+						},
+						{
+							Slot: 4b,
+							id: "emergingtechnology:algaebarcooked",
+							Count: 4,
+							Damage: 0s
+						},
+						{
+							Slot: 5b,
+							id: "pickletweaks:repair_kit",
+							Count: 4,
+							Damage: 1s
+						},
+						{
+							Slot: 6b,
+							id: "minecraft:reeds",
+							Count: 4,
+							Damage: 0s
+						},
+						{
+							Slot: 7b,
+							id: "emergingtechnology:drink",
+							Count: 8,
+							Damage: 0s
+						},
+						{
+							Slot: 8b,
+							id: "alchemistry:wet_sand",
+							Count: 8,
+							Damage: 0s
+						}]
+					},
+					SortType: 2b,
+					BackpackInventorySize: 27,
+					UpgradeSlots: {
+						Items: []
+					}
+				},
+				"retro_sophisticated_backpacks:backpack_capability": {
+					MemoryRespectNBT: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					LockedSlots: [B;
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b,
+						0b
+					],
+					UUIDMost: 4173635317629077973L,
+					UpgradeSlotsSize: 1,
+					MemoryItems: {
+						Items: []
+					},
+					UUIDLeast: -7198254856281728246L,
+					BackpackInventory: {
+						Items: []
+					},
+					SortType: 0b,
+					BackpackInventorySize: 27,
+					UpgradeSlots: {
+						Items: []
+					}
+				}
+			}
+		}
+	}]
+}

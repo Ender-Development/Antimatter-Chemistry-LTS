@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"23219d28"
+	],
+	tasks: [{
+		uid: "8dd829e4",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_dissolver"
+		}]
+	}]
+}

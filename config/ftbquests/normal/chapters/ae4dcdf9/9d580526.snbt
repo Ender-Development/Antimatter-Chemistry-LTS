@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: 4.0d,
+	dependencies: [
+		"fb779c9e"
+	],
+	tasks: [{
+		uid: "d64c1447",
+		type: "item",
+		items: [{
+			item: "alchemistry:wet_sand"
+		}],
+		count: 32L
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 6.0d,
+	dependencies: [
+		"c637609b"
+	],
+	tasks: [{
+		uid: "e711710f",
+		type: "item",
+		items: [{
+			item: "minecraft:carrot"
+		}]
+	}]
+}

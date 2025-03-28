@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "f7e4b246",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}]
+	}]
+}
